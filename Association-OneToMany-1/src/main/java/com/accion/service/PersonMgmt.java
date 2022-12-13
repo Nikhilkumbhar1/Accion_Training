@@ -5,4 +5,5 @@ import com.accion.entity.Person;
 public interface PersonMgmt {
 
     public String saveDataUsingParent(Person person);
+    public String UpdateDataUsingParent(Person person);
 }
